@@ -1,0 +1,9 @@
+/.git*
+/.idea*
+.dockerignore
+.editorconfig
+vendor/
+node_modules
+.phpstorm.meta.php
+Dockerfile
+docker-compose.yaml
